@@ -5,6 +5,7 @@ Lecturer: Nguyễn Tiến Huy, Nguyễn Thanh Tình, Nguyễn Trần Duy Minh
 Video demo: https://www.youtube.com/watch?v=e2jFHrjg_Pg
 
 HOW TO RUN THE SOURCE CODE: GEM HUNTER
+
 RUNNING WITH VISUAL STUDIO CODE
 
 Step 1: Install Visual Studio Code
