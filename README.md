@@ -1,6 +1,6 @@
 Project Introduction to AI - HCMUS
 
-Lecturer: Nguyễn Tiến Huy, Nguyễn Thanh Tình, Nguyễn Trần Duy Minh
+Lecturers: Nguyễn Tiến Huy, Nguyễn Thanh Tình, Nguyễn Trần Duy Minh
 
 Video demo: https://www.youtube.com/watch?v=e2jFHrjg_Pg
 
