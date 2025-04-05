@@ -1,0 +1,24 @@
+PYSAT:
+3, T, 4, 4, 2, G
+T, T, T, T, T, 1
+2, G, 4, T, 3, G
+G, 1, G, 2, G, G
+1, T, 2, 3, T, T
+G, 2, T, G, T, 3
+
+BRUTEFORCE:
+3, T, 4, 4, 2, G
+T, T, T, T, T, 1
+2, G, 4, T, 3, G
+G, 1, G, 2, G, G
+1, T, 2, 3, T, T
+G, 2, T, G, T, 3
+
+BACKTRACK:
+3, T, 4, 4, 2, G
+T, T, T, T, T, 1
+2, G, 4, T, 3, G
+G, 1, G, 2, G, G
+1, T, 2, 3, T, T
+G, 2, T, G, T, 3
+
